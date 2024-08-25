@@ -6,6 +6,8 @@
 ## Objective:
 
 Perform a detailed analysis of the supply chain and digital access datasets using advanced Excel techniques. Develop an interactive dashboard to visualize key insights, streamline supply chain processes, and improve digital marketing strategies.
+![Uploading Screenshot 2024-08-26 011202.jpg…]()
+
 
 ## Data Sources:
 
