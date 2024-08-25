@@ -30,4 +30,4 @@ Perform a detailed analysis of the supply chain and digital access datasets usin
 - **Comparative Analysis**: Compare sales vs. product views and product categories.
 - **Advanced Visualization**: Incorporate sparklines or conditional formatting for trend analysis.
 
-For detailed analysis and insights, refer to the [documentation](https://drive.google.com/drive/folders/1-SbMabPSTjdGxtd0ZJ7AT0QRBABf_WOg?usp=sharing).
+For detailed analysis and insights, refer to the [documentation](https://docs.google.com/spreadsheets/d/14plsisdrciXDx5Qn7iRDCYFE07wB6oNN/edit?usp=sharing&ouid=100394192478694486331&rtpof=true&sd=true).
